@@ -1,0 +1,1 @@
+trainer.py contains all the logic for the agents. main.py contains the experiment setup. run() is the main function that executes the training. 
